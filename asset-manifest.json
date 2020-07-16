@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/wayne-kopman-module-ii-test/static/css/main.6aaad872.chunk.css",
+    "main.js": "/wayne-kopman-module-ii-test/static/js/main.1d8f8f3c.chunk.js",
+    "main.js.map": "/wayne-kopman-module-ii-test/static/js/main.1d8f8f3c.chunk.js.map",
+    "runtime-main.js": "/wayne-kopman-module-ii-test/static/js/runtime-main.7f0bd56e.js",
+    "runtime-main.js.map": "/wayne-kopman-module-ii-test/static/js/runtime-main.7f0bd56e.js.map",
+    "static/js/2.436d728d.chunk.js": "/wayne-kopman-module-ii-test/static/js/2.436d728d.chunk.js",
+    "static/js/2.436d728d.chunk.js.map": "/wayne-kopman-module-ii-test/static/js/2.436d728d.chunk.js.map",
+    "index.html": "/wayne-kopman-module-ii-test/index.html",
+    "precache-manifest.989c759f766b75fbdae6bead1bc9d564.js": "/wayne-kopman-module-ii-test/precache-manifest.989c759f766b75fbdae6bead1bc9d564.js",
+    "service-worker.js": "/wayne-kopman-module-ii-test/service-worker.js",
+    "static/css/main.6aaad872.chunk.css.map": "/wayne-kopman-module-ii-test/static/css/main.6aaad872.chunk.css.map",
+    "static/js/2.436d728d.chunk.js.LICENSE.txt": "/wayne-kopman-module-ii-test/static/js/2.436d728d.chunk.js.LICENSE.txt",
+    "static/media/Coffee-Bags-Flags-India.png": "/wayne-kopman-module-ii-test/static/media/Coffee-Bags-Flags-India.ae542c23.png",
+    "static/media/SocietyCoffee-Logo-Web.svg": "/wayne-kopman-module-ii-test/static/media/SocietyCoffee-Logo-Web.10e65949.svg",
+    "static/media/bars-solid.svg": "/wayne-kopman-module-ii-test/static/media/bars-solid.b3f49afd.svg",
+    "static/media/shopping-cart-solid.svg": "/wayne-kopman-module-ii-test/static/media/shopping-cart-solid.8bf1af37.svg",
+    "static/media/times-solid.svg": "/wayne-kopman-module-ii-test/static/media/times-solid.2c5552a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f0bd56e.js",
+    "static/js/2.436d728d.chunk.js",
+    "static/css/main.6aaad872.chunk.css",
+    "static/js/main.1d8f8f3c.chunk.js"
+  ]
+}
