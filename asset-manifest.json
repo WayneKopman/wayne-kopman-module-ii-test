@@ -1,27 +1,36 @@
 {
   "files": {
-    "main.css": "/wayne-kopman-module-ii-test/static/css/main.6aaad872.chunk.css",
-    "main.js": "/wayne-kopman-module-ii-test/static/js/main.1d8f8f3c.chunk.js",
-    "main.js.map": "/wayne-kopman-module-ii-test/static/js/main.1d8f8f3c.chunk.js.map",
+    "main.css": "/wayne-kopman-module-ii-test/static/css/main.fc6921a9.chunk.css",
+    "main.js": "/wayne-kopman-module-ii-test/static/js/main.afbd70e3.chunk.js",
+    "main.js.map": "/wayne-kopman-module-ii-test/static/js/main.afbd70e3.chunk.js.map",
     "runtime-main.js": "/wayne-kopman-module-ii-test/static/js/runtime-main.7f0bd56e.js",
     "runtime-main.js.map": "/wayne-kopman-module-ii-test/static/js/runtime-main.7f0bd56e.js.map",
-    "static/js/2.436d728d.chunk.js": "/wayne-kopman-module-ii-test/static/js/2.436d728d.chunk.js",
-    "static/js/2.436d728d.chunk.js.map": "/wayne-kopman-module-ii-test/static/js/2.436d728d.chunk.js.map",
+    "static/js/2.1ff70dcd.chunk.js": "/wayne-kopman-module-ii-test/static/js/2.1ff70dcd.chunk.js",
+    "static/js/2.1ff70dcd.chunk.js.map": "/wayne-kopman-module-ii-test/static/js/2.1ff70dcd.chunk.js.map",
     "index.html": "/wayne-kopman-module-ii-test/index.html",
-    "precache-manifest.989c759f766b75fbdae6bead1bc9d564.js": "/wayne-kopman-module-ii-test/precache-manifest.989c759f766b75fbdae6bead1bc9d564.js",
+    "precache-manifest.c722878a5ad9c3e27cd83ceb53810e37.js": "/wayne-kopman-module-ii-test/precache-manifest.c722878a5ad9c3e27cd83ceb53810e37.js",
     "service-worker.js": "/wayne-kopman-module-ii-test/service-worker.js",
-    "static/css/main.6aaad872.chunk.css.map": "/wayne-kopman-module-ii-test/static/css/main.6aaad872.chunk.css.map",
-    "static/js/2.436d728d.chunk.js.LICENSE.txt": "/wayne-kopman-module-ii-test/static/js/2.436d728d.chunk.js.LICENSE.txt",
+    "static/css/main.fc6921a9.chunk.css.map": "/wayne-kopman-module-ii-test/static/css/main.fc6921a9.chunk.css.map",
+    "static/js/2.1ff70dcd.chunk.js.LICENSE.txt": "/wayne-kopman-module-ii-test/static/js/2.1ff70dcd.chunk.js.LICENSE.txt",
+    "static/media/About-Hero-Bean-Bush.jpg": "/wayne-kopman-module-ii-test/static/media/About-Hero-Bean-Bush.09ac7095.jpg",
+    "static/media/About-us.png": "/wayne-kopman-module-ii-test/static/media/About-us.d4b448ce.png",
+    "static/media/Coffee-Bags-Flags-Brazil.png": "/wayne-kopman-module-ii-test/static/media/Coffee-Bags-Flags-Brazil.bd86e862.png",
+    "static/media/Coffee-Bags-Flags-Colombia.png": "/wayne-kopman-module-ii-test/static/media/Coffee-Bags-Flags-Colombia.5ed1508c.png",
+    "static/media/Coffee-Bags-Flags-Ecuador.png": "/wayne-kopman-module-ii-test/static/media/Coffee-Bags-Flags-Ecuador.e86334b0.png",
     "static/media/Coffee-Bags-Flags-India.png": "/wayne-kopman-module-ii-test/static/media/Coffee-Bags-Flags-India.ae542c23.png",
+    "static/media/Coffee-Bags-Flags-Kenya.png": "/wayne-kopman-module-ii-test/static/media/Coffee-Bags-Flags-Kenya.43a4a4c1.png",
+    "static/media/Coffee-Bags-Flags-Peru.png": "/wayne-kopman-module-ii-test/static/media/Coffee-Bags-Flags-Peru.e12cac09.png",
+    "static/media/No-Cofee-mug.jpg": "/wayne-kopman-module-ii-test/static/media/No-Cofee-mug.6cefa761.jpg",
     "static/media/SocietyCoffee-Logo-Web.svg": "/wayne-kopman-module-ii-test/static/media/SocietyCoffee-Logo-Web.10e65949.svg",
     "static/media/bars-solid.svg": "/wayne-kopman-module-ii-test/static/media/bars-solid.b3f49afd.svg",
+    "static/media/great-coffee-bean-Society-Coffee.jpg": "/wayne-kopman-module-ii-test/static/media/great-coffee-bean-Society-Coffee.2c42a0ea.jpg",
     "static/media/shopping-cart-solid.svg": "/wayne-kopman-module-ii-test/static/media/shopping-cart-solid.8bf1af37.svg",
     "static/media/times-solid.svg": "/wayne-kopman-module-ii-test/static/media/times-solid.2c5552a1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7f0bd56e.js",
-    "static/js/2.436d728d.chunk.js",
-    "static/css/main.6aaad872.chunk.css",
-    "static/js/main.1d8f8f3c.chunk.js"
+    "static/js/2.1ff70dcd.chunk.js",
+    "static/css/main.fc6921a9.chunk.css",
+    "static/js/main.afbd70e3.chunk.js"
   ]
 }
