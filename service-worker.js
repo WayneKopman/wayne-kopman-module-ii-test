@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wayne-kopman-module-ii-test/precache-manifest.29228b5906ba9383df43ddc0db3e7ee6.js"
+  "/wayne-kopman-module-ii-test/precache-manifest.c06de88b7e664cc27d9229969573d1c9.js"
 );
 
 self.addEventListener('message', (event) => {
