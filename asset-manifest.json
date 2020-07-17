@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wayne-kopman-module-ii-test/static/css/main.f15a7753.chunk.css",
-    "main.js": "/wayne-kopman-module-ii-test/static/js/main.195d62d2.chunk.js",
-    "main.js.map": "/wayne-kopman-module-ii-test/static/js/main.195d62d2.chunk.js.map",
+    "main.css": "/wayne-kopman-module-ii-test/static/css/main.e0abcf94.chunk.css",
+    "main.js": "/wayne-kopman-module-ii-test/static/js/main.a37cb967.chunk.js",
+    "main.js.map": "/wayne-kopman-module-ii-test/static/js/main.a37cb967.chunk.js.map",
     "runtime-main.js": "/wayne-kopman-module-ii-test/static/js/runtime-main.7f0bd56e.js",
     "runtime-main.js.map": "/wayne-kopman-module-ii-test/static/js/runtime-main.7f0bd56e.js.map",
-    "static/js/2.32039555.chunk.js": "/wayne-kopman-module-ii-test/static/js/2.32039555.chunk.js",
-    "static/js/2.32039555.chunk.js.map": "/wayne-kopman-module-ii-test/static/js/2.32039555.chunk.js.map",
+    "static/js/2.1ff70dcd.chunk.js": "/wayne-kopman-module-ii-test/static/js/2.1ff70dcd.chunk.js",
+    "static/js/2.1ff70dcd.chunk.js.map": "/wayne-kopman-module-ii-test/static/js/2.1ff70dcd.chunk.js.map",
     "index.html": "/wayne-kopman-module-ii-test/index.html",
-    "precache-manifest.9431090153cbe947676a2429d7ee00b3.js": "/wayne-kopman-module-ii-test/precache-manifest.9431090153cbe947676a2429d7ee00b3.js",
+    "precache-manifest.29228b5906ba9383df43ddc0db3e7ee6.js": "/wayne-kopman-module-ii-test/precache-manifest.29228b5906ba9383df43ddc0db3e7ee6.js",
     "service-worker.js": "/wayne-kopman-module-ii-test/service-worker.js",
-    "static/css/main.f15a7753.chunk.css.map": "/wayne-kopman-module-ii-test/static/css/main.f15a7753.chunk.css.map",
-    "static/js/2.32039555.chunk.js.LICENSE.txt": "/wayne-kopman-module-ii-test/static/js/2.32039555.chunk.js.LICENSE.txt",
+    "static/css/main.e0abcf94.chunk.css.map": "/wayne-kopman-module-ii-test/static/css/main.e0abcf94.chunk.css.map",
+    "static/js/2.1ff70dcd.chunk.js.LICENSE.txt": "/wayne-kopman-module-ii-test/static/js/2.1ff70dcd.chunk.js.LICENSE.txt",
     "static/media/About-Hero-Bean-Bush.jpg": "/wayne-kopman-module-ii-test/static/media/About-Hero-Bean-Bush.09ac7095.jpg",
     "static/media/About-us.png": "/wayne-kopman-module-ii-test/static/media/About-us.d4b448ce.png",
     "static/media/Coffee-Bags-Flags-Brazil.png": "/wayne-kopman-module-ii-test/static/media/Coffee-Bags-Flags-Brazil.bd86e862.png",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7f0bd56e.js",
-    "static/js/2.32039555.chunk.js",
-    "static/css/main.f15a7753.chunk.css",
-    "static/js/main.195d62d2.chunk.js"
+    "static/js/2.1ff70dcd.chunk.js",
+    "static/css/main.e0abcf94.chunk.css",
+    "static/js/main.a37cb967.chunk.js"
   ]
 }
