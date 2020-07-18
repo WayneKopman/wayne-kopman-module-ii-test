@@ -1,0 +1,19 @@
+.hero-image {
+  width: 100%;
+  z-index: 1;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Places the text in the center of the image */
+.hero-text {
+  position: absolute;
+  bottom: 30%;
+  padding-top: 30px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  width: 80%;
+  text-align: center;
+}

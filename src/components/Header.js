@@ -21,6 +21,7 @@ export class Header extends Component {
   render() {
     const { toggle } = this.state;
     const { cart } = this.context;
+
     return (
       <header>
         <div className="menu" onClick={this.menuToggle}>
@@ -32,20 +33,18 @@ export class Header extends Component {
           </Link>
         </div>
         <nav>
-          <ul className={toggle ? "toggle" : ""}>
+          <ul className={toggle ? "toggle" : ""} onClick={this.menuToggle}>
             <li>
               <Link to="/">Home</Link>
             </li>
             <li>
               <Link to="/product">Shop</Link>
             </li>
-            <li>
-              <Link to="/subscription">Subscription</Link>
-            </li>
+
             <li>
               <Link to="/about">About us</Link>
             </li>
-            <li className="close" onClick={this.menuToggle}>
+            <li className="close">
               <img src={Close} alt="" width="20" />
             </li>
           </ul>

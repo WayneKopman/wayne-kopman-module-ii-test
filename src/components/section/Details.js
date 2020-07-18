@@ -28,20 +28,30 @@ export class Details extends Component {
     const { addCart } = this.context;
     return (
       <>
+        <div className="breadcrumb">
+          <Link to="/product">◄ Back to shop</Link>
+        </div>
+
         {product.map((item) => (
           <div className="details" key={item._id}>
             <img src={item.src} alt="" />
             <div className="box">
               <div className="row">
-                <h2>{item.title}</h2>
+                <h3 textAlign="left">{item.title}</h3>
                 <span>£{item.price}</span>
+                <p>{item.description}</p>
+                <p>{item.content}</p>
+
+                <Link
+                  to="/cart"
+                  className="cart"
+                  onClick={() => addCart(item._id)}
+                >
+                  {" "}
+                  <button>Add to cart </button>
+                </Link>
               </div>
             </div>
-            <p>{item.description}</p>
-            <p>{item.content}</p>
-            <Link to="/cart" className="cart" onClick={() => addCart(item._id)}>
-              Add to cart
-            </Link>
           </div>
         ))}
       </>

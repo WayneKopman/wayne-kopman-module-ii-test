@@ -1,43 +1,73 @@
+.cart {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 section .cart {
   position: relative;
-  border: 1px solid #ccc;
 }
+
 .amount span {
-  color: crimson;
+  color: #322b25;
   padding: 0 20px;
 }
+
 .amount .count {
   width: 40px;
   height: 30px;
-  border: 1px solid #555;
+  color: #322b25;
+  border: 1px solid #322b25;
   outline: none;
   background: transparent;
   cursor: pointer;
 }
+
+.amount .count:hover {
+  border: 1px solid #72401b;
+  color: #72401b;
+}
+
 .delete {
-  /*position: absolute;*/
   top: 0;
   right: 5px;
-  color: crimson;
+  color: red;
   cursor: pointer;
   font-weight: 900;
+  float: left;
+  padding-top: 10px;
 }
+
 .total {
   width: 100%;
   height: 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 15px 10px;
+  padding-bottom: 150px;
 }
+
 .total a {
   text-decoration: none;
-  background: #333;
+  background: #090704;
+  border-radius: 5px;
   color: white;
   text-transform: uppercase;
   letter-spacing: 2px;
   padding: 10px 25px;
+  width: 220px;
+  text-align: center;
+  flex-wrap: wrap;
 }
+
 .total h3 {
-  margin-right: 50px;
-  color: crimson;
+  color: #090704;
+  font-size: 24px;
+}
+
+.cart-img {
+  height: 250px;
 }

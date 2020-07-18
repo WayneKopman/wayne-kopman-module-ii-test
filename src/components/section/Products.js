@@ -1,7 +1,13 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { DataContext } from "../Context";
 import "../css/Products.css";
+
+// Context is imported from Context.js
+import { DataContext } from "../Context";
+
+// The map function finds products and their details by ids in the product array
+// An onClick event uses addCart to add a product to the cart by their id
+// More info button uses RouteParams to open the product details component
 
 export class Products extends Component {
   static contextType = DataContext;
@@ -16,17 +22,17 @@ export class Products extends Component {
               <img src={product.src} alt="" />
             </Link>
             <div className="content">
-              <h3>
+              <h4>
                 <Link to={`/product/${product._id}`}>{product.title}</Link>
-              </h3>
+              </h4>
               <span>£{product.price}</span>
               <p>{product.description}</p>
               <button onClick={() => this.context.addCart(product._id)}>
                 Add to cart
               </button>
-              <button className="info-btn">
-                <Link to={`/product/${product._id}`}>More info</Link>
-              </button>
+              <Link to={`/product/${product._id}`}>
+                <button className="info-btn">More info</button>
+              </Link>
             </div>
           </div>
         ))}

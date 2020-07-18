@@ -1,0 +1,49 @@
+.about {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 50px 0;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 15px 10px;
+}
+
+.about-us-main {
+  display: inline-block;
+  text-align: center;
+}
+
+.about-us-image {
+  width: 50%;
+  height: auto;
+  float: right;
+  margin-bottom: 20px;
+}
+.about-us-text {
+  text-align: left;
+  margin: 15px;
+  display: block;
+  width: 45%;
+  float: left;
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+@media only screen and (max-width: 480px) {
+  .about-us-image {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .about-us-image {
+    width: 100%;
+  }
+  .about-us-text {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 0px;
+    padding: 10px;
+  }
+}
